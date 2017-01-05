@@ -1,0 +1,27 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	SMBA - Private Defender Program
+Version:	1.0
+Last change:
+Designer & Developer: William Diep
+-------------------------------------------------------------------*/
+@import "utils/mixins";
+
+@import "utils/variables";
+
+// Bootstrap CSS
+@import "utils/bootstrap.min";
+
+// Icon Font CSS
+@import "utils/font-awesome.min";
+@import "utils/material-design-iconic-font.min";
+
+// Mean Menu CSS
+@import "utils/meanmenu.min";
+
+// Style CSS
+@import "components/style";
+
+// Responsive CSS 
+@import "utils/responsive";

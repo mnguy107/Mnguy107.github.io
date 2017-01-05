@@ -1,0 +1,41 @@
+Target audience: general/adults
+Stock images
+Accessibility 
+Color palettes: white, blue, & yellow
+
+
+Navigation:
+Mobile: Hamburger menu right side; dropdown menu/accordion
+Icon on the left
+
+Bar Associates icon
+1) Home
+2) Memo/Documents
+3) News
+4) About
+5) Contact
+Facebook icon
+
+
+Memo section:
+post memos and documents sent to us from the Court regarding court schedules and policies
+
+About section:
+Staff
+
+Contact section:
+Main office number
+Hours of operation
+Address with Google Maps map
+
+
+
+Homepage:
+1) Hero image - 
+Welcome
+Prop 47 (separate page; “from http://www.smcgov.org/private-defender-program”
+2) Brief section of news
+Read more…
+3) Memo & documents 
+4)About/Staff
+5) Contact
